@@ -124,6 +124,12 @@ p {
   line-height: 1.5;
 }
 
+
+.sign-image {
+  width: 20%;
+  margin: 5px;
+}
+
 .testimonial-image {
   width: 10%;
   border-radius: 100%;
